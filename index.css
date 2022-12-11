@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+main{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+aside{
+    text-align: left;
+    font-size: 5px;
+    float: left;
+    
+}
